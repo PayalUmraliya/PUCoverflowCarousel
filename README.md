@@ -24,7 +24,7 @@ PUCoverflowCarousel is a class designed to simplify the implementation of carous
 
 The MIT License (MIT)
 
-Copyright (c) 2021 TheKarma
+Copyright (c) 2023 TheKarma
 
 ## Author
 
