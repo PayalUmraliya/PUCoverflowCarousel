@@ -12,7 +12,7 @@ PUCoverflowCarousel is a class designed to simplify the implementation of carous
 
 [Click to watch the video](https://youtube.com/shorts/lf8JIcTV3T4?feature=share)
 
-[![Watch the video](https://img.youtube.com/vi/lf8JIcTV3T4/maxresdefault.jpg)](https://youtube.com/shorts/lf8JIcTV3T4?feature=share)
+[![Watch the video](https://img.youtube.com/vi/lf8JIcTV3T4/sddefault.jpg)](https://youtube.com/shorts/lf8JIcTV3T4?feature=share)
 
 ## Requirements
 
